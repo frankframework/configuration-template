@@ -37,7 +37,7 @@
 		<repository>
 			<id>frankframework</id>
 			<name>frankframework</name>
-			<url>https://nexus.frankframework.org/repository/private</url>
+			<url>https://nexus.frankframework.org/repository/public</url>
 		</repository>
 	</repositories>
 
